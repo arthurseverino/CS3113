@@ -1,0 +1,7 @@
+﻿  Entity.cpp
+C:\Users\aseve\OneDrive\Documents\CS3113\P3\Entity.h(8,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+C:\Users\aseve\OneDrive\Documents\CS3113\P3\main.cpp(8,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ShaderProgram.cpp
+C:\Users\aseve\OneDrive\Documents\CS3113\P3\ShaderProgram.h(7,10): fatal error C1083: Cannot open include file: 'SDL_opengl.h': No such file or directory
+  Generating Code...
